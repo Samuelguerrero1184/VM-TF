@@ -1,4 +1,13 @@
-#Evidence
+Samuel Guerrero
+A00365567
+
+# Comandos
+1. terraform init
+2. terraform validate
+3. terraform plan --var-file .\variables.tfvars
+4. terraform apply --var-file .\variables.tfvars
+
+# Evidence
 
 ![image](https://github.com/Samuelguerrero1184/VM-TF/assets/61643297/6e18ff30-41c1-4fad-85ee-ec5671b3d4c8)
 
