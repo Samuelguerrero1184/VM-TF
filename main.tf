@@ -93,8 +93,8 @@ resource "azurerm_virtual_machine" "vm" {
   }
   os_profile {
     computer_name  = "hostname"
-    admin_username = "testadmin"
-    admin_password = "Password1234!"
+    admin_username = "testuser"
+    admin_password = "password"
   }
   os_profile_linux_config {
     disable_password_authentication = false
