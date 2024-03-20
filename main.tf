@@ -94,7 +94,7 @@ resource "azurerm_virtual_machine" "vm" {
   os_profile {
     computer_name  = "hostname"
     admin_username = "testuser"
-    admin_password = "password"
+    admin_password = "Halo1184#"
   }
   os_profile_linux_config {
     disable_password_authentication = false
